@@ -1,0 +1,17 @@
+01,NSR,Normal sinus rhythm
+02,APB,Atrial premature beat
+03,AFL,Atrial flutter
+04,AFIB,Atrial fibrillation
+05,SVTA,Supraventricular tachyarrhythmia
+06,WPW,Pre-excitation (WPW)
+07,PVC,Premature ventricular contraction
+08,Bigeminy,Ventricular bigeminy
+09,Trigeminy,Ventricular trigeminy
+10,VT,Ventricular tachycardia
+11,IVR,Idioventricular rhythm
+12,VFL,Ventricular flutter
+13,Fusion,Fusion of ventricular and normal beat
+14,LBBBB,Left bundle branch block beat
+15,RBBBB,Right bundle branch block beat
+16,SDHB,Second-degree heart block
+17,PR,Pacemaker rhythm
